@@ -1,8 +1,9 @@
 # Site settings
 title: Alvin Lee
-description: 'University of Waterloo \n Computer Science'
+description: 'University of Waterloo - Computer Science'
 url: 'http://alvin-lee.me'
 #url: 'localhost:4000'
+>>>>>>> master
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
