@@ -1,6 +1,6 @@
 # Site settings
 title: Alvin Lee
-description: 'I write code and play games.'
+description: 'University of Waterloo \n Computer Science'
 url: 'localhost:4000'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,7 +9,7 @@ baseurl: '/'
 author:
   name: 'Alvin Lee'
   email: alvinlee_7@live.ca
-  #twitter_username: joshgerdes
+  twitter_username: _alvinlee_
   #facebook_username: joshgerdes
   github_username:  a79lee
   linkedin_username:  a79lee
