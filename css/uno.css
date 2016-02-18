@@ -1061,6 +1061,12 @@ pre {
 	margin: 0;
 	font-size: .9em;
 	color: #999999; }
+.excerpt img {
+	width: 40%;
+	height: 40%;
+	float: left;
+	margin-right: 10px;
+}
 
 .intro {
 	font-family: "Roboto Slab", serif;
