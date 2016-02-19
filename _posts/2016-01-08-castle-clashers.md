@@ -1,6 +1,6 @@
 ---
 title:  "Board Game Project - Castle Clashers"
-date:   2016-01-08
+date:   2016-01-11
 categories: [projects]
 tags: [project]
 ---
@@ -15,7 +15,7 @@ Here is a quick overview of the final iteration of rules:
 
 Each player selects a starting castle located on one of the 4 corners of the board. The yellow castles denote neutral castles on the board. A castle is captured and controlled by they are the only player that has at least one unit inside the castle. If another player's unit is present in the castle, it is considered contested.
 
-![Game Board]({{ site.baseurl }}images/map.png "Game Board")
+![Game Board]({{ site.baseurl }}images/boardgame/map.png "Game Board")
 
 
 Each player's turn is divided into 2 dfferent phases, the upkeep phase and the action phase.
@@ -48,7 +48,13 @@ I thoroughly enjoyed the process of designing and building the board game for th
 
 We went through many iterations of the rules, and spent a lot of time discussing how to balance the stats of the different units. For example, the counter attack mechanic wasn't initially present. During our playtests, we noticed that there was no consequence for attacking another player's unit. This meant that players being attacked were helpless and it gave the attacking player too much power. So to balance this, if the unit being attack survived, it was allowed to retalitate against the attacker. This made the attacking mechanic into a risk/reward decision, where the player had to decide if attacking another unit was worth the risk of a counter attack.
 
-Another example of how the rules changed over our playtests, was how many power tokens a player would receive per castle. Initially, each player collected a base amount of 2 tokens, plus one for every player in the game, and then one for every castle the player controlled. We noticed that the number of castles held by each player remained very constant throughout the rounds. A player would lose one castle one round, and then get it back the next round, hold it for another round, and then lose it again. This led to the winner being decided on the very last player's turn. To combat this, we reworked the resource collection mechanic with a better positive feedback loop to help snowball the game. To those who don't know, a positive feedback loop is where positive effects in a game are reinforced in some way. An example would be, if in a game, whenever a player receives a point, they would get another reward, creating an advantage. This helps accelerate the game and makes players who are doing well get better even faster. For our game, we changed the base amount of power tokens a player would get and then upped the amount received for each castle under control. This allowed players who held more castles to take more actions than previously allowed if they were doing well, giving them more of an advantage and making the general experience of the game much more fun.
+Another example of how the rules changed over our playtests, was how many power tokens a player would receive per castle. Initially, each player collected a base amount of 2 tokens, plus one for every player in the game, and then one for every castle the player controlled. We noticed that the number of castles held by each player remained very constant throughout the rounds. A player would lose one castle one round, and then get it back the next round, hold it for another round, and then lose it again. This led to the winner being decided on the very last player's turn. To combat this, we reworked the resource collection mechanic with a better positive feedback loop to help snowball the game. To those who don't know, a positive feedback loop is where positive effects in a game are reinforced in some way. An example would be, if in a game, whenever a player takes a certain action, they receive a point, which then would get them another reward, creating an advantage. This helps accelerate the game and makes players who are doing well get better even faster. 
+
+
+![Positive Feedback Loops]({{ site.baseurl }}images/boardgame/positivefeedbackloop.png "Positive Feedback Loop")
+
+
+For our game, we changed the base amount of power tokens a player would get and then upped the amount received for each castle under control. This allowed players who held more castles to take more actions than previously allowed if they were doing well, giving them more of an advantage and making the general experience of the game much more fun.
 
 All in all it was a great experience designing this boardgame and I am looking forward excitedly to the next project for this course!
 
