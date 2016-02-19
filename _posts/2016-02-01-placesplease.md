@@ -2,7 +2,7 @@
 title:  "Places, Please! Prototype"
 date:   2016-02-01
 categories: [projects]
-tags: [projects, unity, prototype]
+tags: [project, unity, prototype]
 excerpt_separator: <!--more-->
 ---
 
