@@ -1,6 +1,6 @@
 ---
 title:  "Machinima Project"
-date:   2016-01-10
+date:   2016-01-07
 categories: [projects]
 tags: [project]
 ---
@@ -22,10 +22,7 @@ The first thing I did was create a beat sheet. A beat is basically the smallest 
 The next step was to create a storyboard and present it to the class. I used the storyboard to plan out how the story would unfold. I included details like the type of shots for each scene, the length of each scene and what kind of dialogue would take place during each scene, if there was any. I received feedback from the rest of the class on areas where I could improve when making the final product. 
 
 
-<video width="420" height="315" autoplay>
-  <source src={{ site.baseurl }}"/images/machinima_images/AlvinLee-StoryBoard.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe width="420" height="315" src="https://youtube.com/embed/alZraPJQG0g" frameborder="0" allowfullscreen></iframe>
 
 
 Next, I put it all together and created the film. Using a program called MovieStorm, I manually created all the sets and the characters. I also setup the animations for the characters by tracing each character's path of movement, moving their heads so they were looking at a specified direction at a given time or other actions they would take in a scene. I manipulated an in game camera to get the shots I needed. This process took a lot of time, especially since I needed to familiarize myself with the software and its limitations. I also edited all the shots to make everything coherent to the audience. Given more time, I would improve the overall presentation by recording the audio with real people and spending more time on improving the animation for certain characters or scenes. I would even consider using another engine to better realize my idea.
