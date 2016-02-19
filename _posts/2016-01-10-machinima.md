@@ -8,6 +8,8 @@ tags: [project]
 <iframe width="420" height="315" src="https://www.youtube.com/embed/s9jhM2fUT2c" frameborder="0" allowfullscreen></iframe>
 
 
+### The Process
+
 Back in second year, I took a machinima course. For those who don't know what machinima is, it is essentially the use of a video game engine to create films. It was one of the most unique courses I have ever taken and taught me quite a bit about the process of making a movie. Crafting the story for the short film was a fun experience and I want to detail a bit about the process in this post.
 
 The course was structured in such a way that each assignment was a step toward finishing the final film. I had to choose one of Aesop's fables and create a more modern take on it. The one I chose was The boy and The Nettles, which had the lesson "Whatever you do, do with all your might".
