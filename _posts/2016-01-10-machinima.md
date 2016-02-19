@@ -19,7 +19,7 @@ The first thing I did was create a beat sheet. A beat is basically the smallest 
 ![Beat Board 1]({{ site.baseurl }}images/machinima_images/BeatBoard-1.jpg?raw=true "Beat Board 1")
 ![Beat Board 2]({{ site.baseurl }}images/machinima_images/BeatBoard-2.jpg?raw=true "Beat Board 2")
 
-The next step was to create a storyboard and present it to the class. I used the storyboard to plan out how the story would unfold. FIX THIS: SENTNECE?I included details like the type of shots for each scene, the length and what kind of dialogue would take place during each scene if any. I received feedback from the rest of the class on areas where I could improve when making the final product. 
+The next step was to create a storyboard and present it to the class. I used the storyboard to plan out how the story would unfold. I included details like the type of shots for each scene, the length of each scene and what kind of dialogue would take place during each scene, if there was any. I received feedback from the rest of the class on areas where I could improve when making the final product. 
 
 
 <video width="420" height="315" autoplay>
