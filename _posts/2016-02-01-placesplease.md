@@ -50,4 +50,4 @@ This was my first time ever attending an event like this. It was all very exciti
 ![Waterloo Innovation Summit]({{ site.baseurl }}images/placesplease/wisbooth.jpg "Waterloo Innovation Summit Booth")
 
 
-Overall, I'm quite happy with how the prototype turned out and the experiences that agreeing to the project offered me. Heres to hoping more projects like this come around in the future!
+Overall, I'm quite happy with how the prototype turned out and the experiences that participating in the project offered me. Heres to hoping more projects like this come around in the future!
