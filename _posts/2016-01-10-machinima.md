@@ -3,21 +3,22 @@ title:  "Machinima Project"
 date:   2016-01-07
 categories: [projects]
 tags: [project]
+excerpt_separator: <!--more-->
 ---
+
+Back in second year, I took a machinima course. For those who don't know what machinima is, it is essentially the use of a video game engine to create films. It was one of the most unique courses I have ever taken and taught me quite a bit about the process of making a movie. Crafting the story for the short film was a fun experience <!--more-->and I want to detail a bit about the process in this post.
+
+The final result:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/s9jhM2fUT2c" frameborder="0" allowfullscreen></iframe>
 
-
-### The Process
-
-Back in second year, I took a machinima course. For those who don't know what machinima is, it is essentially the use of a video game engine to create films. It was one of the most unique courses I have ever taken and taught me quite a bit about the process of making a movie. Crafting the story for the short film was a fun experience and I want to detail a bit about the process in this post.
 
 The course was structured in such a way that each assignment was a step toward finishing the final film. I had to choose one of Aesop's fables and create a more modern take on it. The one I chose was The boy and The Nettles, which had the lesson "Whatever you do, do with all your might".
 
 The first thing I did was create a beat sheet. A beat is basically the smallest unit of a story. Each beat is a piece of the story where something happens that pushes the story forward. The first step in the process was to create the beat sheet on sticky notes so that we could rearrange them whenever we felt the story needed it. 
 
-![Beat Board 1]({{ site.baseurl }}images/machinima_images/BeatBoard-1.jpg?raw=true "Beat Board 1")
-![Beat Board 2]({{ site.baseurl }}images/machinima_images/BeatBoard-2.jpg?raw=true "Beat Board 2")
+<img class="image_med" src="{{ site.baseurl }}images/machinima_images/BeatBoard-1.jpg?raw=true" title="Beat Board 1" alt="Beat Board 1">
+<img class="image_med" src="{{ site.baseurl }}images/machinima_images/BeatBoard-2.jpg?raw=true" title="Beat Board 2" alt="Beat Board 2">
 
 The next step was to create a storyboard and present it to the class. I used the storyboard to plan out how the story would unfold. I included details like the type of shots for each scene, the length of each scene and what kind of dialogue would take place during each scene, if there was any. I received feedback from the rest of the class on areas where I could improve when making the final product. 
 
