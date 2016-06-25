@@ -6,7 +6,7 @@ tags: [project, unity, prototype]
 excerpt_separator: <!--more-->
 ---
 
-Last year, I had the unique opportunity to develop a prototype in conjunction with the Games Institute within the University of Waterloo. I was approached by a friend, Shawn, asking if I was open to helping him develop a prototype for the Games Institute and the Stratford Theatre Festival. I was initially <!--more-->hesitant to accept given the size of the project and my inexperience, but in the end I decided to give it a try and I'm quite glad that I did! I learned more about Unity's 2D and UI tools throughout the process, especially the UI tools which I used quite a bit during the development of the prototype, and had the wonderful opportunity to help showcase the game at the Waterloo Innovation Summit!
+Last year, I had the unique opportunity to develop a prototype in conjunction with the Games Institute within the University of Waterloo. I was approached by a friend, Shawn, asking if I was open to helping him develop a prototype for the Games Institute and the Stratford Theatre Festival. I was initially <!--more-->hesitant to accept given the size of the project and my inexperience, but in the end I decided to give it a try and I'm quite glad that I did! I learned more about Unity throughout the process, especially the UI tools which I used quite a bit during the development of the prototype, and had the wonderful opportunity to help showcase the game at the Waterloo Innovation Summit!
 
 ### A Little Background
 
