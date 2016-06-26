@@ -7,7 +7,7 @@ tags: [project]
 
 One of my favourite courses this term (and increasingly becoming one of my favourite courses I've taken in my undergraduate career) is the Introduction to Game Design course taught by Dr. Lennart Nacke. This is the first formal game design course that I've taken and I've been learning a lot about fundamental game design concepts. The concepts are quite interesting and and line up with my career goals to work as a game designer.
 
-The first project involved designing and building a prototype for a territorial aqisition game in a group of 5. The idea that was eventually chosen by our group was initially brought up by one of our members and was inspired by games such as Risk and Valkyria Chronicles. The game supports 2-4 players however it is recommended that it be played with 4. The goal of the game is essentially to capture as many castles as possible, and after 12 rounds whoever has the most castles wins. 
+The first project involved designing and building a prototype for a territorial acquisition game in a group of 5. The idea that was eventually chosen by our group was initially brought up by one of our members and was inspired by games such as Risk and Valkyria Chronicles. The game supports 2-4 players however it is recommended that it be played with 4. The goal of the game is essentially to capture as many castles as possible, and after 12 rounds whoever has the most castles wins. 
 
 ### Game Rules
 
@@ -56,5 +56,5 @@ Another example of how the rules changed over our playtests, was how many power 
 
 For our game, we changed the base amount of power tokens a player would get and then increased the amount received for each castle under control. This allowed players who held more castles to take more actions than previously allowed if they were doing well, giving them more of an advantage and making the general experience of the game much more fun.
 
-All in all, designing this board game was a great experience and I am excitedly looking forward to the next project for this course!
+All in all, designing this board game was a great experience and I am eagerly looking forward to the next project for this course!
 
