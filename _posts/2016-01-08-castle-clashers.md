@@ -51,7 +51,7 @@ We went through many iterations of the rules, and spent a lot of time discussing
 Another example of how the rules changed over our playtests, was how many power tokens a player would receive per castle. Initially, each player collected a base amount of 2 tokens, plus one for every player in the game, and then one for every castle the player controlled. We noticed that the number of castles held by each player remained very constant throughout the rounds. A player would lose one castle one round, and then get it back the next round, hold it for another round, and then lose it again. This led to deciding the winner on the very last player's turn. To combat this, we reworked the resource collection mechanic with a better positive feedback loop to help snowball the game. To those who don't know, a positive feedback loop is where positive effects in a game are reinforced in some way. For example, whenever a player takes a certain action, they receive a point, which then gets them another reward, creating an advantage. This helps accelerate the game and makes players who are doing well continue to profit from their success. 
 
 
-![Positive Feedback Loops]({{ site.baseurl }}images/boardgame/positivefeedbackloop.png "Positive Feedback Loop")
+![Positive Feedback Loops]({{ site.baseurl }}/images/boardgame/positivefeedbackloop.png "Positive Feedback Loop")
 
 
 For our game, we changed the base amount of power tokens a player would get and then increased the amount received for each castle under control. This allowed players who held more castles to take more actions than previously allowed if they were doing well, giving them more of an advantage and making the general experience of the game much more fun.
