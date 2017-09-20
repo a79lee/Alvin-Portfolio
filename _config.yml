@@ -2,7 +2,7 @@
 title: Alvin Lee
 description: 'University of Waterloo - Computer Science'
 url: 'localhost:4000'
-baseurl: '/'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -10,7 +10,7 @@ author:
   name: 'Alvin Lee'
   email: alvinlee_7@live.ca
   twitter_username: _alvinlee_
-  #facebook_username: joshgerdes
+  #facebook_username: 
   #github_username:  a79lee
   linkedin_username:  a79lee
 

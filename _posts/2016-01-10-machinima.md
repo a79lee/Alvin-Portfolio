@@ -17,8 +17,8 @@ The course was structured in such a way that each assignment was a step toward f
 
 The first step in the process was creating a beat sheet. A beat is the smallest unit of a story. Each beat is a piece of the story where something happens that pushes the story forward. I created the beat sheet on sticky notes so that I could rearrange them whenever I felt the story needed it. 
 
-<img class="image_med" src="{{ site.baseurl }}images/machinima_images/BeatBoard-1.jpg?raw=true" title="Beat Board 1" alt="Beat Board 1">
-<img class="image_med" src="{{ site.baseurl }}images/machinima_images/BeatBoard-2.jpg?raw=true" title="Beat Board 2" alt="Beat Board 2">
+<img class="image_med" src="{{ site.baseurl }}/images/machinima_images/BeatBoard-1.jpg?raw=true" title="Beat Board 1" alt="Beat Board 1">
+<img class="image_med" src="{{ site.baseurl }}/images/machinima_images/BeatBoard-2.jpg?raw=true" title="Beat Board 2" alt="Beat Board 2">
 
 The next step was to create a storyboard and present it to the class. I used the storyboard to plan out how the story would unfold, including details like the type of shot for each scene, the length of each scene and what kind of dialogue would take place during each scene, if there was any. I received feedback from the rest of the class on areas I could improve on when making the final product. 
 
