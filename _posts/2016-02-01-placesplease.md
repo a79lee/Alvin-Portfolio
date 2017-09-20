@@ -27,15 +27,15 @@ Shawn designed the game in its entirety, but given the timeframe we had to build
 
 + **Wig Prep:** This moment tasks players with swiping down on the red mannequins to prepare them for the actors 
 
-![WigPrep]({{ site.baseurl }}images/placesplease/wigprep.png "WigPrep")
+![WigPrep]({{ site.baseurl }}/images/placesplease/wigprep.png "WigPrep")
 
 + **Understudy Guide:** This moment involves the stage manager and the actor. The stage manager's screen is presented with a map and a series of dots that form a path that they have to trace over with their finger. As a dot is swiped by the stage manager, the actor, who is presented with the same screen but without the dots initially, is able to see the dots that form the path which must also be traced.
 
-![UnderstudyGuide]({{ site.baseurl }}images/placesplease/understudyguide.png "UnderstudyGuide")
+![UnderstudyGuide]({{ site.baseurl }}/images/placesplease/understudyguide.png "UnderstudyGuide")
 
 + **Costume Change:** This is also another duo moment, this time consisting of the crew and the actor. The crew gets a piece of clothing that he must "pass" onto the actor by tilting their device. To receive the piece of clothing, the actor must also tilt their device after the crew player has done so. The actor will then be presented with arrows, which they will have to swipe to signify them putting it on. 
 
-![CostumeChange]({{ site.baseurl }}images/placesplease/costumechange.png "CostumeChange")
+![CostumeChange]({{ site.baseurl }}/images/placesplease/costumechange.png "CostumeChange")
 
 ### Pitching and Demoing
 
@@ -43,11 +43,11 @@ Once the prototype was finally finished, I was invited by Shawn to join him when
 
 One of the best experiences by far that was brought on by the project was also being asked by Shawn to help demo the prototype during the Waterloo Innovation Summit. The summit is a multiday event that spans multiple venues. We were located at a museum in Kitchener and the Games Institute had the whole second floor to themselves. 
 
-![Waterloo Innovation Summit2]({{ site.baseurl }}images/placesplease/wismuseum.jpg "Waterloo Innovation Summit2")
+![Waterloo Innovation Summit2]({{ site.baseurl }}/images/placesplease/wismuseum.jpg "Waterloo Innovation Summit2")
 
 This was my first time ever attending an event like this. It was all very exciting! We had our own booth and a poster too.
 
-![Waterloo Innovation Summit]({{ site.baseurl }}images/placesplease/wisbooth.jpg "Waterloo Innovation Summit Booth")
+![Waterloo Innovation Summit]({{ site.baseurl }}/images/placesplease/wisbooth.jpg "Waterloo Innovation Summit Booth")
 
 
 Overall, I'm quite happy with how the prototype turned out and the experiences that participating in the project offered me. Heres to hoping more projects like this come around in the future!

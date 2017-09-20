@@ -13,7 +13,7 @@ The first project involved designing and building a prototype for a territorial 
 
 Here is a quick overview of the final iteration of rules:
 
-<img class="image_small" src="{{ site.baseurl }}images/boardgame/map.png" title="Game Board" alt="Game Board">
+<img class="image_small" src="{{ site.baseurl }}/images/boardgame/map.png" title="Game Board" alt="Game Board">
 
 Each player selects a starting castle located on one of the 4 corners of the board. The yellow castles represent neutral castles on the board. A castle is captured and controlled by a player if they are the only player that has at least one unit inside the castle. If another player's unit is present in the castle, it is considered contested.
 
