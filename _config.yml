@@ -1,6 +1,6 @@
 # Site settings
 title: Alvin Lee
-description: 'University of Waterloo - Computer Science'
+ddescription: 'University of Waterloo Computer Science | Aspiring Game Designer'
 url: 'http://alvin-lee.me'
 #url: 'localhost:4000'
 baseurl: '/'
