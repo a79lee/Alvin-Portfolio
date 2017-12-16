@@ -6,7 +6,7 @@ tags: [unity, prototype, gamesinstitute]
 excerpt_separator: <!--more-->
 ---
 
-*Places, Please!* is a 4 player co-operative mobile game designed to simulate the act of putting on a theatre production. The prototype was developed in Unity for Shawn DeSouza-Coelho, a member of the the Univerity of Waterloo's Games Institute. His thesis explored the intersection between narrative and gameplay, with this game focusing on emergent narrative. I was also invited by Shawn to join him when he pitched the prototype to the Stratford Theatre Festival, and when he demoed the prototype during the Waterloo Innovation Summit.
+*Places, Please!* is a 4 player co-operative mobile game designed to simulate the act of putting on a theatre production. <!--more-->The prototype was developed in Unity for Shawn DeSouza-Coelho, a member of the the Univerity of Waterloo's Games Institute. His thesis explored the intersection between narrative and gameplay, with this game focusing on emergent narrative. I was also invited by Shawn to join him when he pitched the prototype to the Stratford Theatre Festival, and when he demoed the prototype during the Waterloo Innovation Summit.
 
 ![Waterloo Innovation Summit]({{ site.baseurl }}/images/placesplease/wisbooth.jpg "Waterloo Innovation Summit Booth")
 
