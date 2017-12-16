@@ -15,11 +15,11 @@ A 2D, narrative driven, punch out style game created in Unity for Rita Orji's re
    
 ### My Role(s):
 
-Programmer: 
+Designer:
+* Helped shape key design elements, such as deciding that dodging demon attacks also damaged demon instead of just nullifying the demon's attack. 
+* Helped tune attack and health values for both the demons and player.
+
+Programmer:
 * Built most of the levels, and put the game together. 
 * Added most of the animations, all of the music and UI into the game. 
 * Modified the underlying systems and mechanics created by the previous programmer, such as the combat mechanics and BAC system, to fit the design vision.
-
-Designer: 
-* Helped shape key design elements, such as deciding that dodging demon attacks also damaged demon instead of just nullifying the demon's attack. 
-* Helped tune attack and health values for both the demons and player.  
